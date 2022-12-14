@@ -12,10 +12,10 @@ if (a < 100)
 }
 else
 {
-    if (a < 1000)
+    while (a >= 1000)
     {
-        int a3 = a%10;
-        int N = a3;
-        Console.WriteLine("Третья цифра: " + N);
+        a = a/10 ;
     }
+    int a3 = a % 10;
+    Console.WriteLine($"Третья цифра числа -> {a3}");
 }
