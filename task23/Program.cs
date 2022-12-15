@@ -11,6 +11,11 @@ Console.WriteLine($"Таблица квадратов числа {N}, от 1 д�
 while ( num < N+1)
 {
     int result = num * num * num;
+    if (num == N)
+    {
+        Console.Write(result);
+    }
+    else
     Console.Write(result + "," );
     num ++;
 }
