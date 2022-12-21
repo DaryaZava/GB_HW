@@ -19,4 +19,3 @@ while ( num < N+1)
     Console.Write(result + "," );
     num ++;
 }
-
