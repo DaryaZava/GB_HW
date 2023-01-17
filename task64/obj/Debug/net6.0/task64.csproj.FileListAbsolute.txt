@@ -1,0 +1,15 @@
+C:\GeekBrains\C#_HomeWork\task64\bin\Debug\net6.0\task64.exe
+C:\GeekBrains\C#_HomeWork\task64\bin\Debug\net6.0\task64.deps.json
+C:\GeekBrains\C#_HomeWork\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+C:\GeekBrains\C#_HomeWork\task64\bin\Debug\net6.0\task64.dll
+C:\GeekBrains\C#_HomeWork\task64\bin\Debug\net6.0\task64.pdb
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\task64.dll
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\refint\task64.dll
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\task64.pdb
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+C:\GeekBrains\C#_HomeWork\task64\obj\Debug\net6.0\ref\task64.dll
